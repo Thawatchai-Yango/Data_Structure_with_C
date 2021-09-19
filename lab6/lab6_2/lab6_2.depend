@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1600151630 source:c:\users\kinkk\onedrive\desktop\muswork\codeblockproject\lab6\lab6_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1600147130 source:c:\users\kinkk\onedrive\desktop\muswork\codeblockproject\lab6\lab6_2\main2.c
+	<stdio.h>
+	<stdlib.h>
+
